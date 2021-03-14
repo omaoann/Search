@@ -4,7 +4,7 @@
 }
 
 .container{
-	padding-top:50px;
+	padding:20px;
 	clear: both;
 }
 
@@ -86,8 +86,22 @@
 }
 
 .span_class{
-	font-family: "Courier";
-	font-size: 13px
+	color: #666;
+	font-family: "monospace";
+	font-size: 13px;
+	white-space: pre;
+
+}
+
+
+.label_one{
+	color: #222;
+	font-size: 14px;
+}
+
+.label_two{
+	color: #555;
+	font-size: 12px;
 }
 
 .ul_list{
@@ -119,6 +133,10 @@ input[type=submit] {
 
 input[type=submit]:hover {
   background-color: #4269f5;
+}
+
+#hr1{
+	border-top: 1px #ccc;
 }
 
 
