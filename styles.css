@@ -83,7 +83,7 @@
 	background-color: #f8f9fa;
 	border: 1px solid #f8f9fa;
 	border-radius: 4px;
-	font-family: arial,, sans-serif;
+	font-family: arial, sans-serif;
 	font-size: 14px;
 	margin: 11px 4px;
 	padding:13px;
@@ -178,19 +178,5 @@ a:hover{
 }
 }
 
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
-
-}
-
-/* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {
-
-}
-
-/* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {
-
-}
 
 
